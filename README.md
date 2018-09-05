@@ -1,13 +1,10 @@
-TESTE
-This folder contains files for P0: Analyze Bay Area Bike Share Data.
+This analysis was originally made as part of a nanodegree program in [Fundamentals on Data Science](https://www.udacity.com/nanodegree), from Udacity. I am expanding it as I am continuing learning.
 
-Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
+Analysis\_Bay\_Area\_Bike\_Share.html - Contains the analysis.
 
-babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
-data wrangling, reporting of basic statistics, and creation of exploratory bar
-charts and histograms.
+Analysis\_Bay\_Area\_Bike\_Share.ipynb - Main project file.
 
-Data is split among twelve other files, organized into three sets of four files
+Data is split among six files, organized into three sets of four files
 each. Prefixing each set is one of three datestamps, showing the end month for
 each data collection period (201402, 201408, 201508). Suffixes for each file
 indicate contents:
@@ -20,5 +17,4 @@ capacities.
 \*\_trip\_data.csv - Information about each trip taken using the bike share
 system.
 
-\*\_weather\_data.csv - Weather information by day for one station in each
-city in the bike share program.
+All the Data is then summarised in one single file: babs\_y1\_y2\_summary.csv
